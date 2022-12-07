@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jhnpn/workout_tracker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.17",
     "morgan": "^1.10.0"
